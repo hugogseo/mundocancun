@@ -95,7 +95,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-slate-800 mt-12 pt-8 text-center text-slate-400">
-          <p>&copy; {new Date().getFullYear()} Mundo Cancún. Todos los derechos reservados.</p>
+          <p>&copy; 2025 Mundo Cancún. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>

@@ -1,0 +1,17 @@
+ESTA CARPETA DEBE SER ELIMINADA
+
+Esta es una carpeta duplicada que quedó de la estructura inicial.
+Todo el contenido se ha movido a la carpeta padre "pagina dinamica".
+
+Para eliminarla:
+1. Cierra tu editor/IDE
+2. Cierra cualquier terminal que esté en esta carpeta
+3. Elimina manualmente la carpeta "mundocancun"
+
+La estructura correcta es:
+c:\Hugo\MUndo Cancun\pagina dinamica\
+  ├── app/
+  ├── components/
+  ├── lib/
+  ├── supabase/
+  └── ... (todos los archivos del proyecto)
